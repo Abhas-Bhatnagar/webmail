@@ -1,0 +1,8 @@
+mail from: hod@cse.college.edu
+rcpt to: hod@electrical.college.edu
+data
+subject: my first
+mail
+.
+quit
+

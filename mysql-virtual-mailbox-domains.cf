@@ -1,0 +1,5 @@
+user = root
+password = abhas123
+hosts = 127.0.0.1
+dbname = servermail
+query = SELECT id FROM virtual_domains WHERE name='%s'
